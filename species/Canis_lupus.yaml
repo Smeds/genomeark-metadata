@@ -10,6 +10,7 @@ species:
     name: Canidae
   individuals:
     - short_name: mCanLor1
+    - short_name: mCanLor2
   genome_size:
   genome_size_method:
   project: [ vgp ]
