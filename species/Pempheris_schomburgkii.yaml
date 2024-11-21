@@ -1,0 +1,14 @@
+species:
+    common_name: ''
+    family:
+        name: ''
+    genome_size: ''
+    genome_size_method: ''
+    individuals:
+    -   short_name: fPemSco2
+    name: Pempheris schomburgkii
+    order:
+        name: ''
+    project: []
+    short_name: fPemSco
+    taxon_id: ''
