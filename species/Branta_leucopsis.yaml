@@ -9,6 +9,7 @@ species:
   family:
     name: Anatidae
   individuals:
+    - short_name: bBraLeu1
     - short_name: bBraLeu2
       biosample_id: SAMEA112468032
       sex: male
