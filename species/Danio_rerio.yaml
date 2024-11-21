@@ -26,7 +26,7 @@ species:
       strain: Tuebingen
       sex: female
       description: Tuebingen strain double haploid female founder of SAT strain
-    - short_name: fDanRer12"
+    - short_name: fDanRer12
   genome_size: 
   genome_size_method:
   project: [ vgp ]
