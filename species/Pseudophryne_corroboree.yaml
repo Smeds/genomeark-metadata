@@ -3,6 +3,8 @@ species:
   name: Pseudophryne corroboree
   individuals:
   - short_name: aPseCor3
+  - short_name: aPseCor2
+  - short_name: aPseCor1
   short_name: aPseCor
   taxon_id: 495146
   common_name: corroboree frog
