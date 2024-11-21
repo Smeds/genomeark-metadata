@@ -18,6 +18,7 @@ species:
     - short_name: bPhaAeh6
       biosample_id: SAMEA8228676
       sex: female
+    - short_name: bPhaAeh1
   genome_size:
   genome_size_method:
   project: [ vgp ]
