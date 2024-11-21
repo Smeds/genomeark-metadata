@@ -9,7 +9,7 @@ species:
   family:
     name: Natalidae
   individuals:
-  - "short_name": "mDerPha1"
+   - short_name: mDerPha1
   genome_size: 2489010000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]
