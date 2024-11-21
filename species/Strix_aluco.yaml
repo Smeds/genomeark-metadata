@@ -9,6 +9,7 @@ species:
   family:
     name: Strigidae
   individuals:
+    - short_name: bStrAlu1
     - short_name: bStrAlu2
       biosample_id: SAMEA114594455
       sex:
