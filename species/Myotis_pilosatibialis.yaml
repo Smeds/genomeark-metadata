@@ -8,6 +8,8 @@ species:
     name: Chiroptera
   family:
     name: Vespertilionidae
+  individuals:
+    - short_name: mMyoPil1
   genome_size: 2210280000
   genome_size_method: GoaT
   project: [ vgp , bat1k ]
