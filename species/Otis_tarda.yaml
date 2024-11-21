@@ -12,6 +12,7 @@ species:
     - short_name: bOtiTar7
       biosample_id: SAMEA114806514
       sex: female
+    - short_name: bOtiTar3
   genome_size: 1388760000
   genome_size_method: GoaT
   project: [ vgp ]
