@@ -9,6 +9,7 @@ species:
   family:
     name: Mustelidae
   individuals:
+    - short_name: mMusNiv1
     - short_name: mMusNiv2
       biosample_id: SAMEA113398841
       sex: female
