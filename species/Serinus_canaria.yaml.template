@@ -12,3 +12,5 @@ species:
     biosample_id:
     description:
     provider:
+  - short_name: bSerCan2
+  - short_name: bSerCan3
