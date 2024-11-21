@@ -6,7 +6,9 @@ species:
   genome_size: 2500000000
   genome_size_method: null
   individuals:
-  - short_name: rGopFla2
+   - short_name: rGopFla3
+   - short_name: rGopFla2
+   - short_name: rGopFla1
   name: Gopherus flavomarginatus
   order:
     name: Testudines
