@@ -15,6 +15,7 @@ species:
     - short_name: bGavSte5
       biosample_id: SAMEA9850966
       sex: female
+    - short_name: bGavSte3
   genome_size: 1398540000
   genome_size_method: GoaT
   project: [ vgp ]
